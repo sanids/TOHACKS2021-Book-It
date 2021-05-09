@@ -1,0 +1,79 @@
+body{
+    background-color: #671B0A;
+}
+
+.title {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 120px;
+    max-width: 485px;
+}
+.card:hover {
+    cursor: pointer;
+    transition-duration: 1s;
+    max-height: 300px;   
+}
+ 
+.book-icon {
+ height: 75px;
+ position: relative;
+ top: 25px;
+ left: 20px;
+}
+
+.book-list {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    background-color: #671B0A;
+}
+
+.card-title {
+    position: relative;
+    bottom: 60px;
+    margin-top: 0px;
+}
+
+.star-container {
+    margin-top: 5px;
+    position: relative;
+    bottom: 60px;
+}
+
+.category {
+    margin-top: 5px;
+    position: relative;
+    bottom: 65px;
+}
+
+.authors {
+    margin-top: 5px;
+    position: relative;
+    bottom: 65px;
+}
+
+.description {
+    position: relative;
+    bottom: 65px;
+}
+
+.arrow {
+    opacity: 0.75;
+    font-size: 20px;
+    position: relative;
+    left: 225px;
+    bottom: 80px;
+}
+
+.ion-spinner {
+    --color: secondary;
+}
+
+
+

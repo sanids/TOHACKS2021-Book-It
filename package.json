@@ -1,0 +1,37 @@
+{
+  "name": "bookit",
+  "version": "1.0.0",
+  "description": "TOHACKs 2021 Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanids/TOHACKS-Book-It.git"
+  },
+  "author": "Prithvie and Sanid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanids/TOHACKS-Book-It/issues"
+  },
+  "homepage": "https://github.com/sanids/TOHACKS-Book-It#readme",
+  "dependencies": {
+    "@google-cloud/language": "^4.2.2",
+    "@ionic/react": "^5.5.4",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "googleapis": "^67.0.0",
+    "ionicons": "^5.4.0",
+    "react-ionicons": "^4.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-star-ratings": "^2.3.0",
+    "xml2js": "^0.4.23",
+    "xmlserializer": "^0.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
